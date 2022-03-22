@@ -1,0 +1,10 @@
+#pragma once
+
+namespace libspark {
+
+namespace protocol {
+
+#define LIBSPARKPROTO_VERSION "${MAJOR}.${MINOR}.${PATCH}-${VERSION_SUFFIX}"
+
+} // namespace protocol
+} // namespace libspark
